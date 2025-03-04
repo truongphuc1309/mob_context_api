@@ -2,6 +2,6 @@
 ## MSV: 22810310381
 
 ## Kết quả:
-![signin](signin.gif)
-![home](home.gif)
-![profile](profile.gif)
+![signin](signin.jpg)
+![home](home.jpg)
+![profile](profile.jpg)
